@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ali1195shah/npm-lab-dumbo-web-091619/issues"
   },
-  "homepage": "https://github.com/ali1195shah/npm-lab-dumbo-web-091619#readme"
+  "homepage": "https://github.com/ali1195shah/npm-lab-dumbo-web-091619#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
 }
